@@ -7,3 +7,6 @@ Key analyses include:
 * Revenue and discount impact analysis
 * Product ratings and preference insights
 * Sales trends over time with pricing behavior
+
+
+**NOTE:** *Updating project on GitHub is in progress*
