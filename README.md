@@ -8,6 +8,7 @@ Key analyses include:
 * Product ratings and preference insights
 * Sales trends over time with pricing behavior
 
+
 DASHBOARDS -
 1. Product Analysis
 2. Sales & Revenue Analysis
