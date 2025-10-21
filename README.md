@@ -8,5 +8,10 @@ Key analyses include:
 * Product ratings and preference insights
 * Sales trends over time with pricing behavior
 
+DASHBOARDS -
+1. Product Analysis
+2. Sales & Revenue Analysis
+3. Geographic Analysis
+
 
 **NOTE:** *Updating project on GitHub is in progress*
